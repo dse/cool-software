@@ -10,6 +10,17 @@
 -   [Excalidraw][excalidraw] is an online drawing tool affecting a
     hand-written and -drawn style.
     
+## Media Consumption
+
+### Audio
+
+-   [foobar2000][foobar] is a nice, reasonably uncomplicated audio
+    player.
+    
+## Utilities
+
+-   [Color Cop][colorcop] is what I use for picking colors in Windows.
+    
 ## JavaScript
 
 -   [fnm][fnm] is an alternative to [nvm][nvm].
@@ -26,3 +37,5 @@
 [theoTools2023]: https://t3.gg/blog/post/2023-tools
 [affinity]: https://affinity.serif.com/en-us/photo/
 [excalidraw]: https://excalidraw.com/
+[foobar]: https://www.foobar2000.org/
+[colorcop]: https://colorcop.net/
