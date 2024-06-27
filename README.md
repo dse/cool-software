@@ -4,84 +4,62 @@ I've not used all of these.
 
 ## Media
 
-### Editing
-
-#### Vector Editors
-
--   [Inkscape][inkscape] is a FOSS vector drawing tool you might use instead of [Adobe][adobe] Illustrator.
-    
-#### Raster Photo Editors
-
--   [Gimp][gimp], the bog standard [Adobe][adobe] PhotoShop replacement.
--   [Darktable][darktable] - photography workflow, editing, metadata, etc.
--   [FotoSketcher][fotosketcher] - turns photos into various art styles.
--   [Krita][krita] - primarily for sketching and painting
--   [Affinity Photo][affinity] is a popular replacement for [Adobe][adobe]'s PhotoShop.
-
-#### Audio Editors
-
--   [Audacity][audacity] is the bog standard audio editor and recorder.
--   [LMMS][lmms] - digital audio workstation for music creation.
--   [Mixxx][mixxx] - audio mixing tool for DJs.
-
-#### Video Editors
-
--   [Blender][blender] 
--   [DaVinci Resolve][davinci]
--   [kdenlive][kdenlive] - nonlinear video editor
--   [Olive][olive] a new FOSS nonlinear video editor
--   [OpenShot][openshot] video editor
--   [Shotcut][shotcut] - video editor for new users
-
-### Playing
-    
-#### Audio/Video Players
-
--   [VLC][vlc]
--   [foobar2000][foobar] is a nice, reasonably uncomplicated audio player.
--   [MPC-BE][mpc] - Media Player Classic Black Edition - Windows only.
-    Original MPC is not updated but MPC-BE is.
--   [PotPlayer][potplayer] - similar to VLC and kmplayer
--   [SMPlayer][smplayer] - if you don't like VLC
--   [Plex][plex] - almost every streaming device has a plex app.
--   [Kodi][kodi] - media player, support some smart tvs and streaming devices with a kodi app.  Has numerous addons.
-
-#### Image Viewers
-
--   [ImageGlass][imageglass]
--   [nomacs][nomacs] - with resize, crop, and other simple editing options
--   [XnView MP][xnview] - batch processes, some editing features
-
-### Converters
-
-#### Video Converters
-
--   [Handbrake][handbrake]
+-   Editing
+    -   Vector Editors
+        -   [Inkscape][inkscape] is a FOSS vector drawing tool you might use instead of [Adobe][adobe] Illustrator.
+    -   Diagrams
+        -   [Excalidraw][excalidraw] is an online drawing tool affecting a hand-written and -drawn style.
+    -   Photo Editors
+        -   [Gimp][gimp], the bog standard [Adobe][adobe] PhotoShop replacement.
+        -   [Darktable][darktable] - photography workflow, editing, metadata, etc.
+        -   [FotoSketcher][fotosketcher] - turns photos into various art styles.
+        -   [Krita][krita] - primarily for sketching and painting
+        -   [Affinity Photo][affinity] is a popular replacement for [Adobe][adobe]'s PhotoShop.
+    -   Audio Editors
+        -   [Audacity][audacity] is the bog standard audio editor and recorder.
+        -   [LMMS][lmms] - digital audio workstation for music creation.
+        -   [Mixxx][mixxx] - audio mixing tool for DJs.
+    -   Video Editors
+        -   [Blender][blender] 
+        -   [DaVinci Resolve][davinci]
+        -   [kdenlive][kdenlive] - nonlinear video editor
+        -   [Olive][olive] a new FOSS nonlinear video editor
+        -   [OpenShot][openshot] video editor
+        -   [Shotcut][shotcut] - video editor for new users
+-   Consuming
+    -   Audio/Video Players
+        -   [VLC][vlc]
+        -   [foobar2000][foobar] is a nice, reasonably uncomplicated audio player.
+        -   [MPC-BE][mpc] - Media Player Classic Black Edition - Windows only.
+            Original MPC is not updated but MPC-BE is.
+        -   [PotPlayer][potplayer] - similar to VLC and kmplayer
+        -   [SMPlayer][smplayer] - if you don't like VLC
+        -   [Plex][plex] - almost every streaming device has a plex app.
+        -   [Kodi][kodi] - media player, support some smart tvs and streaming devices with a kodi app.  Has numerous addons.
+    -   Image Viewers
+        -   [ImageGlass][imageglass]
+        -   [nomacs][nomacs] - with resize, crop, and other simple editing options
+        -   [XnView MP][xnview] - batch processes, some editing features
+-   Converting
+    -   Video
+        -   [Handbrake][handbrake]
 
 ## Documents
 
-### Office
-
--   [LibreOffice][libreoffice]
--   [OnlyOffice][onlyoffice]
-
-### Desktop Publishing
-
--   [Scribus][scribus] - newsletters, brochures, posters, alternative to [Adobe][adobe] InDesign
-
-### PDF Viewers
-
--   [Sumatra PDF][sumatra]
--   [Foxit PDF Reader][foxit]
+-   Office Suites
+    -   [LibreOffice][libreoffice]
+    -   [OnlyOffice][onlyoffice]
+-   Desktop Publishing
+    -   [Scribus][scribus] - newsletters, brochures, posters, alternative to [Adobe][adobe] InDesign
+-   PDF Viewers
+    -   [Sumatra PDF][sumatra]
+    -   [Foxit PDF Reader][foxit]
 
 ## Email
 
--   [SuperHuman][superhuman]
+-   [Thunderbird][thunderbird] is the bog standard FOSS email reader
+-   [SuperHuman][superhuman] manages your email and is apparently good if you're one of them "zero inbox" types.
 
-## Drawing
-
--   [Excalidraw][excalidraw] is an online drawing tool affecting a hand-written and -drawn style.
-    
 ## Utilities
 
 -   [Color Cop][colorcop] is what I use for picking colors in Windows.
@@ -90,7 +68,6 @@ I've not used all of these.
 -   [Greenshot][greenshot], Windows only - enhanced screenshot tool with lots of options
 -   [OBS Studio][obs] screen recording software
 -   [Glary Utilities][glary], Windows only - various system performance improvement tools.
--   [HWiNFO][hwinfo] - hardware info, monitoring, etc.
 -   [BleachBit][bleachbit], a cleaner
 -   [Revo Uninstaller][revo] - a better Windows uninstaller that creates system restore points
 -   [Rufus][rufus] - Windows 7+ or portable, turns ISOs into bootable USB drives
@@ -100,16 +77,10 @@ I've not used all of these.
 ## System Info
 
 -   [CPU-Z][cpuz] - hardware detection for Windows.
-    
-## JavaScript
-
--   [fnm][fnm] is an alternative to [nvm][nvm].
+-   [HWiNFO][hwinfo] - hardware info, monitoring, etc.
 
 ## Web Browsers
 
--   You know about Firefox, Google Chrome, Microsoft Edge, and Safari
-    -   Based on Firefox:
-        -   Tor
 -   [arc][arc] is a rather cool clean browser, available for macOS, Windows 11, and hopefully soon Windows 10.
 -   [Vivaldi][vivaldi] - privacy, productivity, chrome extensions
 -   [Tor][tor] - encrypts web traffic, dark web
@@ -123,6 +94,10 @@ I've not used all of these.
 
 -   [Bitdefender][bitdefender] Antivirus Free
 -   [Malwarebytes][malwarebytes] for Windows and macOS
+    
+## JavaScript
+
+-   [fnm][fnm] is an alternative to [nvm][nvm].
 
 ## Sources
 
@@ -146,7 +121,6 @@ I've not used all of these.
 -   [ProtonVPN][proton] - same people as protonmail - free tier provides unlimited bandwidth
 -   [qBittorrent][qbit]
 -   [Stellarium][stellarium] - planetarium leave me be
--   [Thunderbird][thunderbird]
 -   [VeraCrypt][veracrypt] - encryption software for disks or partitions
 -   [VirtualBox][virtualbox]
 
